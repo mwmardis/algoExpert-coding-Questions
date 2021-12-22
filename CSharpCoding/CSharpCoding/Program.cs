@@ -2,6 +2,4 @@
 
 using CSharpCoding;
 
-Console.WriteLine("Hello, World!");
-
 Console.WriteLine(NonConstructibleChange.NonConstructiveChange(new[] {1, 3, 5}));
