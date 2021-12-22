@@ -1,0 +1,15 @@
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\bin\Debug\net6.0\CSharpCoding.exe
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\bin\Debug\net6.0\CSharpCoding.deps.json
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\bin\Debug\net6.0\CSharpCoding.runtimeconfig.json
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\bin\Debug\net6.0\CSharpCoding.dll
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\bin\Debug\net6.0\ref\CSharpCoding.dll
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\bin\Debug\net6.0\CSharpCoding.pdb
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.csproj.AssemblyReference.cache
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.AssemblyInfoInputs.cache
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.AssemblyInfo.cs
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.csproj.CoreCompileInputs.cache
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.dll
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\ref\CSharpCoding.dll
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.pdb
+C:\Users\mwmar\OneDrive\Documents\GitHub\algoExpert-coding-Questions\CSharpCoding\CSharpCoding\obj\Debug\net6.0\CSharpCoding.genruntimeconfig.cache
